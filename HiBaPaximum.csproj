@@ -4,7 +4,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>disable</Nullable>
     <PackageId>HiBa.Paximum.Api.Client</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>Hizir Basaran</Authors>
     <Company>HiBa</Company>
     <Product>Paximum Api Client</Product>
