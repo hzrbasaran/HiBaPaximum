@@ -32,4 +32,7 @@ public class PriceSearchRequest : BaseRequest
     [JsonPropertyName("night")] public int Night { get; set; }
     [JsonPropertyName("currency")] public string Currency { get; set; }
     [JsonPropertyName("culture")] public string Culture { get; set; }
+    [JsonPropertyName("markupPrice")] public SearchMarkupPrice MarkupPrice { get; set; }
+    
+    
 }
