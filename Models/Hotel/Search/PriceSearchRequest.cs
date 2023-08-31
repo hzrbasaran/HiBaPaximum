@@ -34,5 +34,4 @@ public class PriceSearchRequest : BaseRequest
     [JsonPropertyName("culture")] public string Culture { get; set; }
     [JsonPropertyName("markupPrice")] public SearchMarkupPrice MarkupPrice { get; set; }
     
-    
 }
