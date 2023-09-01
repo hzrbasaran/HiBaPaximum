@@ -4,7 +4,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>disable</Nullable>
     <PackageId>HiBa.Paximum.Api.Client</PackageId>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <Authors>Hizir Basaran</Authors>
     <Company>HiBa</Company>
     <Product>Paximum Api Client</Product>
@@ -17,6 +17,9 @@
     <PackageReadmeFile>ReadMe.md</PackageReadmeFile>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     <PackageLicenseFile>lic.txt</PackageLicenseFile>
+    <PackageProjectUrl>https://github.com/hzrbasaran/HiBaPaximum</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/hzrbasaran/HiBaPaximum</RepositoryUrl>
+    <PackageReleaseNotes>Wiki pages and github repository link</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
