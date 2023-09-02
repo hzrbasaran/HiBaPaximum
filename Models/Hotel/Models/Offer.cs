@@ -11,6 +11,7 @@ public class OfferItem
     [JsonPropertyName("rooms")]public List<Room> Rooms { get; set; }
     [JsonPropertyName("isRefundable")]public bool IsRefundable { get; set; }
     [JsonPropertyName("cancellationPolicies")]public List<CancellationPolicy> CancellationPolicies { get; set; }
+    [JsonPropertyName("priceBreakdowns")]public List<PriceBreakdowns> PriceBreakdowns { get; set; }
     [JsonPropertyName("thirdPartyOwnOffer")]public bool ThirdPartyOwnOffer { get; set; }
     [JsonPropertyName("restrictions")]public List<dynamic> Restrictions { get; set; }
     [JsonPropertyName("warnings")]public List<dynamic> Warnings { get; set; }
