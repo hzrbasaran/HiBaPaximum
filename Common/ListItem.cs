@@ -43,7 +43,7 @@ public class ListItemHotel : ListItemWithId
     [JsonPropertyName("internationalName")] public string InternationalName { get; set; } = null!;
 }
 
-public class ListItemWithPrice: ListItem
+public class ListItemWithPrice: ListItemWithId
 {
     [JsonPropertyName("isPriced")]
     public bool IsPriced { get; set; }
