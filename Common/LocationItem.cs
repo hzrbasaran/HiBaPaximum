@@ -10,6 +10,8 @@ public class LocationItem
     [JsonPropertyName("isTopRegion")] public bool IsTopRegion { get; set; }
     [JsonPropertyName("id")] public string Id { get; set; }
     [JsonPropertyName("internationalCode")] public string InternationalCode { get; set; }
+    [JsonPropertyName("latitude")] public double Latitude { get; set; }
+    [JsonPropertyName("longitude")] public double Longitude { get; set; }
 }
 
 public class LocationCountry : LocationItem
