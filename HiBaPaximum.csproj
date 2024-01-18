@@ -1,10 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>disable</Nullable>
     <PackageId>HiBa.Paximum.Api.Client</PackageId>
-    <Version>1.0.3</Version>
+    <Version>1.0.8</Version>
     <Authors>Hizir Basaran</Authors>
     <Company>HiBa</Company>
     <Product>Paximum Api Client</Product>
